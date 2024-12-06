@@ -1,2 +1,3 @@
 # xedolinegiaimamecung
-Do line theo phương pháp
+Dò line theo phương pháp digital Following
+Giải mã mê cung theo phương pháp "Left-Hand"
