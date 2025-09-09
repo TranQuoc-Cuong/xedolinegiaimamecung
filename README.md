@@ -75,6 +75,7 @@ Tên: Trần Quốc Cường
 Email: tranquoccuong103111@gmail.com  
 GitHub: github.com/TranQuoc-Cuong
   
-
+## Đường lui:  
+Có gì sai sót mong bạn bỏ qua cho mình nha. Vì mình chỉ là một sinh viên đang cố gắng làm gì đó.   
 
 
