@@ -1,6 +1,5 @@
 # XE DÒ LINE GIẢI MÃ MÊ CUNG
 
-
 Xe khả năng dò line và chạy theo line màu đen. Và đi khám phá line theo thuật toán Left Hand rồi tự rút ngắn lại theo thuật toán.  
 Mục tiêu dự án là làm nghiên cứu khoa học Tại Trường Học Viện Công Nghệ Bưu Chính Viễn Thông cơ sở TP.HCM.  
 Ngoài mục tiêu trên, muốn tham gia thực hiện một đồ án cùng với đội nhóm lần đầu tiên cũng như áp dụng các kiến thức mình có thể học vào trong đồ án ở năm 2 đại học.  
